@@ -1,0 +1,28 @@
+﻿@model RockPaperScissors.App.Models.GameViewModel
+
+@{
+    ViewData["Title"] = "Rock paper scissors";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Select game mode</h1>
+
+    <div class="row">
+        <div class="col-sm">
+            What kind of a game would you like to have?
+        </div>
+        <div class="col-sm">
+            <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Dropdown button
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a asp-action="Players" asp-route-id="1" class="dropdown-item" >Single player</a>
+                    <a asp-action="Players" asp-route-id="0" class="dropdown-item" >AI Only</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

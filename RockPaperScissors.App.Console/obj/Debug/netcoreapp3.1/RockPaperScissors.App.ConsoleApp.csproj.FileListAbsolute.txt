@@ -1,0 +1,16 @@
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\bin\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.exe
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\bin\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.deps.json
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\bin\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.runtimeconfig.json
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\bin\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\bin\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.dll
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\bin\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.pdb
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\bin\Debug\netcoreapp3.1\RockPaperScissors.Core.dll
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\bin\Debug\netcoreapp3.1\RockPaperScissors.Core.pdb
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\obj\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\obj\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\obj\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.AssemblyInfo.cs
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\obj\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\obj\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.csproj.CopyComplete
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\obj\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.dll
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\obj\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.pdb
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.App.Console\obj\Debug\netcoreapp3.1\RockPaperScissors.App.ConsoleApp.genruntimeconfig.cache

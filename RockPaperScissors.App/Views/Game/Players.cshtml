@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Select a choice";
+}
+
+<h1 class="display-4">Pick</h1>
+
+Please select which option you'd like to play
+<div class="row">
+    @foreach (var val in Model.MoveChoices)
+    {
+        <div class="col-sm">
+            <h2 class="display-6">@val.Name</h2>
+            <a asp-action="Results" asp-route-id="@val.Name"><img width="300" height="300" src="@val.GetImagePath" /></a> |
+
+        </div>
+    }
+</div>

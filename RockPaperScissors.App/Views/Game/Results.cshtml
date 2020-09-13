@@ -1,0 +1,36 @@
+﻿@model RockPaperScissors.App.Models.GameViewModel
+@{
+    ViewData["Title"] = "Game over";
+}
+
+
+
+<h1 class="display-4">Game over</h1>
+
+<div class="row">
+    <div class="col-sm">
+        <div class="row">
+            Player 1 picked @(@Model.PlayerPic?.Name  ?? @Model.Ai2Pic.Name) 
+        </div>
+        <div class="row">
+            <img width="300" height="300" src="@(@Model.PlayerPic?.GetImagePath ?? Model.Ai2Pic.GetImagePath) " />
+        </div>
+
+    </div>
+    <div class="col-sm">
+        <div class="row">
+            Player 2 picked @Model.Ai1Pic?.Name
+        </div>
+        <div class="row">
+            <img width="300" height="300" src="@Model.Ai1Pic?.GetImagePath" />
+        </div>
+
+    </div>
+
+</div>
+<div class="row">
+
+    This was a @Model.Result for Player 1.
+
+</div>
+

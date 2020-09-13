@@ -1,0 +1,8 @@
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\bin\Debug\netcoreapp3.1\RockPaperScissors.Core.deps.json
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\bin\Debug\netcoreapp3.1\RockPaperScissors.Core.dll
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\bin\Debug\netcoreapp3.1\RockPaperScissors.Core.pdb
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\obj\Debug\netcoreapp3.1\RockPaperScissors.Core.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\obj\Debug\netcoreapp3.1\RockPaperScissors.Core.AssemblyInfo.cs
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\obj\Debug\netcoreapp3.1\RockPaperScissors.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\obj\Debug\netcoreapp3.1\RockPaperScissors.Core.dll
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\obj\Debug\netcoreapp3.1\RockPaperScissors.Core.pdb
