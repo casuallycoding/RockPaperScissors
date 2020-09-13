@@ -37,10 +37,8 @@ namespace RockPaperScissors.Core.Objects
         /// Returns the elements that have been dedfined in the Game.
         /// </summary>
         /// <returns></returns>
-        public IEnumerable<GameElementBase> GetChoices()
-        {
-            return _options;
-        }
+        public IEnumerable<GameElementBase> GetChoices() => _options;
+        
 
 
 

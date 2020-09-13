@@ -10,11 +10,7 @@ namespace RockPaperScissors.Core.Objects
     public class CustomElement : GameElementBase
     {
 
-        public CustomElement(string url,Type beats, Type wins ) 
-            : base(url,beats,  wins)
-        {
-
-        }
+        public CustomElement(string url,Type beats, Type wins ) : base(url,beats,  wins) {}
     }
 
 }
