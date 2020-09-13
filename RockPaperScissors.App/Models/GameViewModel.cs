@@ -10,9 +10,7 @@ namespace RockPaperScissors.App.Models
     {
 
         public int Players { get; set; }
-
         public GameElementBase PlayerPic { get; set; }
-
         public GameElementBase Ai1Pic { get; set; }
         public GameElementBase Ai2Pic { get; set; }
 

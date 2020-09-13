@@ -6,3 +6,4 @@ C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockP
 C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\obj\Debug\netcoreapp3.1\RockPaperScissors.Core.csproj.CoreCompileInputs.cache
 C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\obj\Debug\netcoreapp3.1\RockPaperScissors.Core.dll
 C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\obj\Debug\netcoreapp3.1\RockPaperScissors.Core.pdb
+C:\Users\Dave\source\repos\CasuallyCoding\InterviewTasks\RockPaperScissors\RockPaperScissors.Core\obj\Debug\netcoreapp3.1\RockPaperScissors.Core.csprojAssemblyReference.cache
